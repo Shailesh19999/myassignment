@@ -1,0 +1,74 @@
+
+.container-fluid img {
+  height: 70px;
+  width: 70px;
+  border-radius: 60px;
+  
+}
+.alertbox{
+  font-size: 15px;
+}
+.heading{
+  display: flex;
+  justify-content: space-between;
+  margin-left: 25px;
+  margin-right: 25px;
+  margin-top: 25px;
+}
+.heading .heading1{
+  color: rgb(2, 121, 168);
+  font-size: 25px;
+}
+.heading .heading2{
+  color: white;
+  background-color: rgb(199, 128, 14);
+  width: 200px;
+  border-radius: 20px;
+  font-size: 20px;
+  padding: 5px;
+  text-align: center;
+  
+}
+.myimg{
+  float: right;
+}
+.myimg img {
+  height: 120px;
+  width: 140px;
+  margin-right: 120px;
+  
+  
+}
+.mybtn{
+  float: right;
+}
+.mybtn button{
+  background-color: blue;
+  color: white;
+  width: 200px;
+  margin-right: 100px;
+}
+.card-bodys {
+  display: flex;
+  justify-content: space-between;
+  
+
+}
+.card-bodys h3{
+  margin-left: 40px;
+  margin-right: 40px;
+
+}
+.card-bodys h3 i{
+  margin-top: 20px;
+  margin-left: 40px;
+  margin-right: 40px;
+  font-size: 20px
+}
+.myfooter{
+  font-size: 15px;
+  text-align: center;
+  margin-top: 8px;
+  color: grey
+  
+}
